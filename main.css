@@ -1,0 +1,24 @@
+#nav{
+height:80px;	
+background-color:blue;
+padding-top:10px;
+padding-bottom:10px;
+display:flex;
+justify-content:center;
+}
+nav #label{
+	padding:10px 50px;
+	font-size=50px;
+	font-family:cursive;
+	color:white;
+}
+nav img{
+margin-right:20px;
+width:50px;
+background-color:white;
+}
+
+.change{
+  display:flex;
+ flex-flow:row wrap;
+}
